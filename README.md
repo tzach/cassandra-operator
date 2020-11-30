@@ -17,7 +17,7 @@ There is the `#cassandra-kubernetes` channel on the ASF slack. Go [here](https:/
 The Cassandra [dev mailing list](http://www.mail-archive.com/dev@cassandra.apache.org/) is also currently being used to broadcast information.
 
 # References
-* [Cass Operator](http://www.mail-archive.com/dev@cassandra.apache.org/) (DataStax)
+* [Cass Operator](https://github.com/datastax/cass-operator) (DataStax)
 * [CassKop](https://github.com/Orange-OpenSource/casskop) (Orange)
 * [Cassandra Operator](https://github.com/instaclustr/cassandra-operator) (Instaclustr)
 * [Cassandra Operator](https://github.com/sky-uk/cassandra-operator) (Sky UK)
